@@ -60,18 +60,18 @@ Uber management wants to analyse ride trends to:
 
 🔹1. Overview Analysis
 
-Includes KPIs, payment analysis, vehicle performance, and top locations.
-📸 Screenshot:
+Includes KPIs, payment analysis, vehicle performance, and top locations. <br>
+![Here is Overview page](https://github.com/dilshad1039/uber-analysis-sql-power-bi-dashboard/blob/main/screenshot/Overview.png)
 
 🔹2. Time Series Analysis
 
-Highlights hourly, daily, and weekend vs weekday demand patterns.
-📸 Screenshot:
+Highlights hourly, daily, and weekend vs weekday demand patterns.<br>
+![Here is Timeseries Analysis page](https://github.com/dilshad1039/uber-analysis-sql-power-bi-dashboard/blob/main/screenshot/timeSeriesAnalysis.png) 
 
 🔹3. Drill-Down Details View
 
-Trip-level table with drill-through functionality for deeper analysis.
-📸 Screenshot:
+Trip-level table with drill-through functionality for deeper analysis. <br>
+![Here is Details page](https://github.com/dilshad1039/uber-analysis-sql-power-bi-dashboard/blob/main/screenshot/Details.png) 
 
 
 ---
@@ -79,10 +79,10 @@ Trip-level table with drill-through functionality for deeper analysis.
 
 This dashboard enables:
 
-- ✔ Surge pricing decisions
-- ✔ Driver allocation planning
-- ✔ Customer and trip trend visibility
-- ✔ Business strategy insights
+- Surge pricing decisions
+- Driver allocation planning
+- Customer and trip trend visibility
+- Business strategy insights
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
